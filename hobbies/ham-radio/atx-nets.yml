@@ -1,0 +1,49 @@
+# Keep this in schedule-order, starting with Sunday midnight
+
+- Organization: "[Austin ARC](https://austinhams.org/)"
+  Name: "[10-meter Weekly Net](https://austinhams.org/localnets/)"
+  Schedule: Sunday, 3pm
+  Type: informal?
+  Frequencies: 28.410
+
+- Organization: "[Austin ARC](https://austinhams.org/)"
+  Name: "[SwapNet](https://austinhams.org/swapnet/)"
+  Schedule: Sunday, 9pm
+  Type: swap
+  Frequencies: 146.940 (107.2)
+
+- Organization: "[Travis County ARES](https://tcares.org/)"
+  Name: "[Voice and Training Net](https://tcares.org/voice-net-training/)"
+  Schedule: Sunday, 7pm
+  Type: emcom/training
+  Frequencies: 147.360 (131.8)<br>146.940 (107.2) (alt)
+
+- Organization: "[Oak Hill ARC](http://n5oak.org/)"
+  Name: "[South Side Simplex Net](http://n5oak.org/nets)"
+  Schedule: Tuesday
+  Type: informal
+  Frequencies: 146.555 simplex
+
+- Organization: "[Travis County ARES](https://tcares.org/)"
+  Name: "[Winlink Wednesday](https://tcares.org/winlink-net-training/)"
+  Schedule: Continuous, check-ins acknowledged Thursday mornings
+  Type: check-in, winlink
+  Frequencies: "Winlink<br>(ATX gateway: 145.730)"
+
+- Organization: "[Oak Hill ARC](http://n5oak.org/)"
+  Name: "[CW OPS Net](http://n5oak.org/nets)"
+  Schedule: "Thursday, 7:30pm"
+  Type: informal
+  Frequencies: 146.555 simplex
+
+- Organization: "[Oak Hill ARC](http://n5oak.org/)"
+  Name: "[Thursday Night Net](http://n5oak.org/nets)"
+  Schedule: Thursday, 8pm
+  Type: informational
+  Frequencies: 147.320 (114.8)<br>147.250 (114.8)<br>441.775 (114.8)
+
+- Organization: "[Austin ARC](https://austinhams.org/)"
+  Name: "[Elmer Net](https://austinhams.org/localnets/)"
+  Schedule: Saturday, 7pm
+  Type: technical, instructional
+  Frequencies: 146.940 (107.2)
