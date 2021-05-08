@@ -1,0 +1,22 @@
+---
+name: publish
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    strategy:
+      fail-fast: true
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install deps
+        run: pip3 install -r requirements.txt
+
+      - name: Deploy docs
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          branch: gh-pages
+          folder: site

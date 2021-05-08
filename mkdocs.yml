@@ -1,0 +1,7 @@
+site_name: relrod life notes
+theme:
+  name: material
+plugins:
+  - search
+  - awesome-pages
+  - table-reader
