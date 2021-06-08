@@ -1,4 +1,13 @@
 # Keep this in schedule-order, starting with Sunday midnight
+# Daily nets are listed once, at the top
+#
+# TODO: mkdocs plugin to generate an ical calendar from this info
+
+- Organization: "[The WIN System](https://www.winsystem.org/)"
+  Name: "[Insomniac Trivia Net](http://www.insomniac-group.com/)"
+  Schedule: "*daily*, 1am"
+  Type: trivia
+  Frequencies: 145.110 (103.5) (WIN System)
 
 - Organization: "[Austin ARC](https://austinhams.org/)"
   Name: "[10-meter Weekly Net](https://austinhams.org/localnets/)"
@@ -15,7 +24,7 @@
 - Organization: "[Travis County ARES](https://tcares.org/)"
   Name: "[Voice and Training Net](https://tcares.org/voice-net-training/)"
   Schedule: Sunday, 7pm
-  Type: emcom/training
+  Type: emcom, training
   Frequencies: 147.360 (131.8)<br>146.940 (107.2) (alt)
 
 - Organization: "[Oak Hill ARC](http://n5oak.org/)"
@@ -24,9 +33,15 @@
   Type: informal
   Frequencies: 146.555 simplex
 
+- Organization: "[UT Austin Amateur Radio Club](https://n5xu.ece.utexas.edu/)"
+  Name: "[UTARC Weekly Net](https://n5xu.ece.utexas.edu/2021/05/18/utarc-net/)"
+  Schedule: Wednesday, 8pm
+  Type: informal
+  Frequencies: 441.325 (97.4)<br>[KA5D system](https://ka5d.com/repeaters/)
+
 - Organization: "[Travis County ARES](https://tcares.org/)"
   Name: "[Winlink Wednesday](https://tcares.org/winlink-net-training/)"
-  Schedule: Continuous, check-ins acknowledged Thursday mornings
+  Schedule: Check-ins acknowledged Thursday mornings
   Type: check-in, winlink
   Frequencies: "Winlink<br>(ATX gateway: 145.730)"
 
@@ -42,8 +57,26 @@
   Type: informational
   Frequencies: 147.320 (114.8)<br>147.250 (114.8)<br>441.775 (114.8)
 
+- Organization: "[The WIN System](https://www.winsystem.org/)"
+  Name: "[WIN System Technical Net](https://www.winsystem.org/win-system-nets/technet/)"
+  Schedule: "Friday, 8:30pm"
+  Type: technical
+  Frequencies: 145.110 (103.5) (WIN System)
+
+- Organization: "[Oak Hill ARC](http://n5oak.org/)"
+  Name: "[Friday Night Trivia Net](https://wz5bbs.com/trivia/)"
+  Schedule: "Friday, 9pm"
+  Type: trivia
+  Frequencies: 147.320 (114.8)<br>147.250 (114.8)<br>441.775 (114.8)<br>[KA5D system](https://ka5d.com/repeaters/)
+
+- Organization: "[The WIN System](https://www.winsystem.org/)"
+  Name: "[WIN Swap Net](https://www.winsystem.org/win-system-nets/swapnet/)"
+  Schedule: "Friday, 10:30pm"
+  Type: swap
+  Frequencies: 145.110 (103.5) (WIN System)
+
 - Organization: "[Austin ARC](https://austinhams.org/)"
   Name: "[Elmer Net](https://austinhams.org/localnets/)"
   Schedule: Saturday, 7pm
-  Type: technical, instructional
+  Type: technical
   Frequencies: 146.940 (107.2)
