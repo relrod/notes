@@ -1,4 +1,6 @@
 site_name: relrod life notes
+site_url: https://notes.elrod.me/
+use_directory_urls: true
 theme:
   name: material
 plugins:

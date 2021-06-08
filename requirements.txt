@@ -1,4 +1,4 @@
-mkdocs < 1.2
+mkdocs
 mkdocs-material
 mkdocs-awesome-pages-plugin
 mkdocs-table-reader-plugin
