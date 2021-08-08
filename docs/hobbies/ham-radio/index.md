@@ -152,8 +152,5 @@ My current setup is as follows (from low to high frequency):
 
 * **33cm** - 900MHz is provided by a Kenwood TK-941, which has some of the
   quietest, best sounding receive audio I've ever heard. Additionally, I have a
-  Motorola MCS2000. Eventually, one of these radios might end up being used as a
-  mobile, or alternatively set up to be a simplex allstarlink node attached to
-  the 927-Tech system. Additionally, I have a TK-481 HT, and a Motorola MCS2000
-  model 1. One of these radios (likely the TK-941) will soon become the first
-  AI5A AllStarLink simplex node.
+  TK-481 HT, and a Motorola MCS2000 model 1. One of these radios (likely the
+  TK-941) will soon become the first AI5A AllStarLink simplex node.
