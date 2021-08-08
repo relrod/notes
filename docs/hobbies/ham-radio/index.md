@@ -134,8 +134,8 @@ My current setup is as follows (from low to high frequency):
   years old. It's running an AMD Ryzen 5 2600 with 48GB of RAM. I run Gentoo
   Linux with a custom kernel configuration. Other computers nearby include a
   Macbook Air (M1 chip), Pinebook Pro, Intel Mac Mini, and a few ThinkPads. (For
-  bragging rights, I also have a 755C, 486 ThinkPad, and a Tadpole SPARC
-  laptop).
+  bragging rights, I also have an IBM 755C ThinkPad which has a 486 processor in
+  it, and a Tadpole SPARC laptop).
 
 * **HF/6m** - Until recently, this was done with an IC-706mkii. However, it was
   recently replaced with an IC-7300. The IC-7300 feeds to a Daiwa CN-801
