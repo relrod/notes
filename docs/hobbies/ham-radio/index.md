@@ -131,7 +131,7 @@ My current setup is as follows (from low to high frequency):
   wiring.
 
 * **Computer** - The primary shack computer is a custom desktop build, several
-  years old. It's running an AMD Ryzon 5 2600 with 48GB of RAM. I run Gentoo
+  years old. It's running an AMD Ryzen 5 2600 with 48GB of RAM. I run Gentoo
   Linux with a custom kernel configuration. Other computers nearby include a
   Macbook Air (M1 chip), Pinebook Pro, Intel Mac Mini, and a few ThinkPads. (For
   bragging rights, I also have a 755C, 486 ThinkPad, and a Tadpole SPARC
