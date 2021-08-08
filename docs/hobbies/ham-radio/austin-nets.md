@@ -6,8 +6,9 @@ hide:
 # Austin Ham Radio Nets
 
 This page constitutes a probably-non-exhaustive listing of ham radio nets in the
-Austin, TX metro area. See the [repeaters list](repeaters.md) for more
-information about the repeaters referenced here.
+Austin, TX metro area.
+
+**NOTE:** This page is not complete and is not very useful yet. I'm aware. :)
 
 This page is broken into multiple sections: There is a schedule table for
 at-a-glance information about nets and when they occur. Below that, there is a
