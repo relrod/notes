@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://notes.elrod.me/</loc>
-         <lastmod>2021-08-26</lastmod>
+         <lastmod>2021-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://notes.elrod.me/hobbies/ham-radio/</loc>
-         <lastmod>2021-08-26</lastmod>
+         <lastmod>2021-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://notes.elrod.me/hobbies/ham-radio/austin-nets/</loc>
-         <lastmod>2021-08-26</lastmod>
+         <lastmod>2021-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://notes.elrod.me/hobbies/ham-radio/portable-node/</loc>
+         <lastmod>2021-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://notes.elrod.me/hobbies/ham-radio/system/</loc>
-         <lastmod>2021-08-26</lastmod>
+         <lastmod>2021-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
