@@ -1,31 +1,36 @@
-# The AI5A System
+# Repeaters and Nodes
 
 The AI5A System currently consists of a 900MHz simplex AllStarLink node located
-and accessible within EM10cf (though coverage extends up North a fair bit). The
-goal of the system for now is coverage for the South Central Austin area
-(Galindo, Dawson, Zilker, Bouldin Creek, South Lamar, SoCo, etc.).
-
-The system is planned to extend to become a 900MHz repeater alongside a UHF
-simplex node in the future, and possibly with more remote repeaters in the
-future.
+and accessible within EM10cf, though coverage extends roughly across the South
+Central Austin area (Galindo, Dawson, Zilker, Bouldin Creek, South Lamar, SoCo,
+etc.). It also consists of the [224.1 Repeater](224.100MHz.md) hosted at **The
+University of Texas at Austin**, and usually linked into the KA5D
+University-Link system.
 
 The system is open for all to use!
 
 ## Affiliations and Links
 
-The system links up to some other local repeater systems for weekly nets.
-The 900MHz system (currently the only piece of the system) also links to the
-927-Tech/K5TRA system every evening at 21:30 *except* when a net conflicts per
-below.
+The 900MHz (927.9750) simplex node ties into the N5OAK system for two nets each
+week (listed below). The 224.1 repeater usually remains linked to the
+University-Link system but we have plans to link it for some 220-preferred nets
+in the future. As such, the 224.1 repeater carries all the nets the KA5D system
+carries as well, including the Oak Hill weekly nets and the UT ARC net.
 
-The system is currently set up with the following schedule:
+#### Nets Carried on 927.9750 Simplex Node
 
 | Day | Time | Link | Comments |
 | --- | ---- | ---- | -------- |
-| W | 19:55 - 21:15 | KA5D System | UT ARC weekly net |
-| Th | 19:55 - 23:00 | N5OAK System | Oak Hill ARC weekly net |
-| F | 20:45 - 00:00 | N5OAK System | Oak Hill ARC weekly trivia net |
-| Su, M, Tu, W, Sa | 21:30 - ?? | 927-Tech/K5TRA | (900 only) Nightly roundtable |
+| Th | 20:00 | N5OAK System | Oak Hill ARC weekly net |
+| F | 21:00 | N5OAK System | Oak Hill ARC weekly trivia net |
+
+#### Nets Carried on 224.1 Repeater
+
+| Day | Time | Link | Comments |
+| --- | ---- | ---- | -------- |
+| W | 20:00 | University-Link | UT ARC Social Net |
+| Th | 20:00 | N5OAK System | Oak Hill ARC Social Net |
+| F | 21:00 | N5OAK System | Oak Hill Arc Trivia Net |
 
 ## Software Configuration
 
@@ -73,8 +78,7 @@ shelf with 3M Command Strips to prevent it from sliding back.
   Top-down view of the 900MHz node.
 </small>
 
-## COMING SOON: UHF (445.550 MHz)
+## 224.1MHz (-1.6Mhz, 100Hz)
 
-The UHF node is served by a PM400 Motorola UHF radio using the accessory jack on
-the back of the radio. It connects to a K5TRA interface board, which connects to
-the same Raspberry Pi as the 900MHz node. The system puts out 45 watts.
+More information about the 222 repeater can be found on
+[its own page](224.100MHz.md).
